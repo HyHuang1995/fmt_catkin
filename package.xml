@@ -1,0 +1,13 @@
+<package format="2">
+  <name>fmt_catkin</name>
+  <version>0.0.0</version>
+  <description>fmt_catkin</description>
+
+  <maintainer email="hyhuang1995@gmail.com">Huaiyang Huang</maintainer>
+
+  <license>See package</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>catkin_simple</buildtool_depend>
+
+</package>
