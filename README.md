@@ -1,4 +1,4 @@
 fmt_catkin
 ==========
 
-fmt catkin wrapper
+[fmt](https://fmt.dev/latest/index.html) catkin wrapper
